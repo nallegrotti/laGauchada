@@ -38,3 +38,12 @@ Se permitirá a quien encarga una tarea premiar o penalizar luego de la ejecuci�
 La reputación aumentará cuantos más premios reciba y empeorará en la medida que aumenten las penalidades en su contra. Tambien se tendran en cuenta para la reputación los premios y penalidades entregados:
 * Un colaborador que reciba penalidades en forma frecuente encotrará dificultades para acordar su colaboración en "gauchadas" debido a que esta situación será reflejada hacia el meimbro que la encarga.
 * A un miembro que entregue frecuentemente penalidades se le difilcultará encontrar colaboradores para sus gauchadas
+
+Plataformas
+--
+
+Al estar el core de la aplicación en APIs (rest expresada en JSON) se permitirá desarrollar en multiples plataformas. La propuesta inicial es desarrollar 2 plataformas principales.
+
+* Android
+* Web 
+
