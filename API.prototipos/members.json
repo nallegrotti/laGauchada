@@ -1,0 +1,9 @@
+/members/:id
+
+{
+	"id": 1234,
+	"name": "Juan Perez",
+	"email": "juan.perez@gmail.com",
+	"credits": 1000,
+	"gauchadas": [1234,4321]
+}

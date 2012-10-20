@@ -1,0 +1,13 @@
+/gauchadas/:id
+
+{
+	"id": 1234,
+	"description": "Llevarme en taxi hasta la estación de Retiro para tomar un micro a Mar del Plata",
+	"petitioner": 4321,
+	"gauchos":[1234],
+	"date_created": "18-Oct-2012 17:35 GMT-3",
+	"date_expected": "15-Nov-2012 20:30 GMT-3",
+	"time_expected": 40, //in minutes
+	"date_accepted": "20-Oct-2012 15:22 GMT-3",
+	"date_executed": null
+}
