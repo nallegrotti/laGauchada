@@ -1,0 +1,14 @@
+/debts/:id
+
+{
+	"obligor": 1234,
+	"date_created": "01-Nov-2012 12:25 GMT-3",
+	"expiration_date": "02-May-2013 00:00 GMT-3",
+	"credits_borrowed": 120,
+	"interest": 5,
+	"status": "approved", // ["pending", "approved", "rejected", "repaid", "expired"]
+	"payments": [
+		{ "gauchada_id": 123, "date_executed": "18-Nov-2012 15:34 GMT-3", "credits_returned": 45 },
+		{ "gauchada_id": 132, "date_executed": "19-Nov-2012 16:12 GMT-3", "credits_returned": 30 }
+	]
+}
