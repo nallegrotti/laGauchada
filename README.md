@@ -19,6 +19,11 @@ Reglas
 
 El Banco puede entregar "creditos" a los miembros del sistema para que puedan encargar "Gauchadas". En esta entrega de "creditos" por parte del banco se exigirán intereses en "creditos" adicionales a los entregados determinables al momento de la entrega.
 
+Los prestamos de creditos entregados por el banco tienen una fecha de vencimiento, los intereses exigidos por los prestamos serán incrementales en caso de tener prestamos pendientes de pago. 
+En ningún caso se podrá tener más de 3 prestamos pendientes de pago.
+En caso de no estar pago un prestamo a la fecha de vencimiento se suspenderá la cuenta del deudor para toda actividad excluida la ejecucíon de "gauchadas". 
+El banco se reserva el derecho de exigir intereses adicionales por los prestamos vencidos.
+
 Todos los miembros del sistema deben "pagar" las "gauchadas" mediante "créditos". 
 
 **Sobre las gauchadas** 
